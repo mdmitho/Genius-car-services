@@ -6,7 +6,7 @@ import expert4 from "../../../images/experts/expert-4.jpg";
 import expert5 from "../../../images/experts/expert-5.jpg";
 import expert6 from "../../../images/experts/expert-6.png";
 import Expert from "../Expert/Expert";
-
+ 
 const experts = [
   { id: 1, name: "Will Smith", img: expert1 },
   { id: 2, name: "Chris Rock", img: expert2 },
